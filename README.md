@@ -8,7 +8,7 @@
 
 <div>
     <a href="https://github.com/gasscoelho">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gasscoelho&show_icons=true&include_all_commits=true&count_private=true&theme=omni">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gasscoelho&show_icons=true&include_all_commits=true&count_private=true&theme=omni">
     <!-- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasscoelho&langs_count=5&hide=ruby,objective-c&layout=compact&theme=omni"> -->
 </div>
 
@@ -16,7 +16,7 @@
   <img align="center" alt="Gabe-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Gabe-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="Gabe-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Gabe-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Gabe-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="Gabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Gabe-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
