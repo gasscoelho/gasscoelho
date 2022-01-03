@@ -1,10 +1,10 @@
-<h2> Hi there, I'm Gabriel 👋</h2>
+## Hi there, I'm Gabriel 👋
 
-<p>
-<em>
-    Software Enginner at <a href="https://www.brfconsulting.com/">BRF Consulting</a>
-</em>
-</p>
+*Enthusiast of modern technologies and passionate about learning.*
+
+Currently working at <a href="https://www.brfconsulting.com/">BRF Consulting</a> as a consultant by providing the best guidance to clients.
+
+---
 
 <div>
     <a href="https://github.com/gasscoelho">
@@ -12,17 +12,19 @@
     <!-- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasscoelho&langs_count=5&hide=ruby,objective-c&layout=compact&theme=omni"> -->
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabe-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabe-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="Gabe-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Gabe-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="Gabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Gabe-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+## Some techs I'm familiar:
 
+<div style="display: inline_block">
+  <img align="center" alt="Gabe-Docker" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Gabe-Electron" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+  <img align="center" alt="Gabe-Jenkins" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Gabe-Nextjs" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="Gabe-NodeJs" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <br><br>
+  <img align="center" alt="Gabe-Python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabe-React" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
+    
 <!--
 **gasscoelho/gasscoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
