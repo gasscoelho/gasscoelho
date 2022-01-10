@@ -10,7 +10,18 @@ Currently working at <a href="https://www.brfconsulting.com/">BRF Consulting</a>
     <a href="https://github.com/gasscoelho">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gasscoelho&show_icons=true&include_all_commits=true&count_private=true&theme=omni">
     <!-- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasscoelho&langs_count=5&hide=ruby,objective-c&layout=compact&theme=omni"> -->
+    </a>
 </div>
+
+<br />
+
+Check it out my [Rabbit Station](https://github.com/stars/gasscoelho/lists/rabbit-station) list that contains all my personal projects that are not related to courses or bootcamps.
+    
+But if you are also interested, here's the repo list of the courses/bootcamps I'm currently doing:
+
+🚀 [Ignite](https://github.com/stars/gasscoelho/lists/ignite-bootcamp) <br/>
+🚀 [GoStack](https://github.com/stars/gasscoelho/lists/gostack-bootcamp) <br/>
+
 
 ## Some techs I'm familiar:
 
