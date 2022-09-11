@@ -2,7 +2,7 @@
 
 *Enthusiast of modern technologies and passionate about learning.*
 
-Currently working at <a href="https://www.brfconsulting.com/">BRF Consulting</a> as a consultant by providing the best guidance to clients.
+Currently working at <a href="https://www.brfconsulting.com/">BRF Consulting</a> as a Software & Data Engineer by providing the best guidance and solution to clients.
 
 ---
 
@@ -17,24 +17,46 @@ Currently working at <a href="https://www.brfconsulting.com/">BRF Consulting</a>
 
 Check it out my [Rabbit Station](https://github.com/stars/gasscoelho/lists/rabbit-station) list that contains all my personal projects that are not related to courses or bootcamps.
     
-But if you are also interested, here's the repo list of the courses/bootcamps I'm currently doing:
+But if you are also interested, here's another list of repositories I've created during courses & bootcamps:
 
 🚀 [Ignite](https://github.com/stars/gasscoelho/lists/ignite-bootcamp) <br/>
 🚀 [GoStack](https://github.com/stars/gasscoelho/lists/gostack-bootcamp) <br/>
 
 
-## Some techs I'm familiar:
+## Thinks I know
+
+#### Programming Languages
 
 <div style="display: inline_block">
-  <img align="center" alt="Gabe-Docker" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabe-Electron" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="Gabe-Jenkins" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Gabe-Nextjs" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="Gabe-NodeJs" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <br><br>
-  <img align="center" alt="Gabe-Python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabe-React" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabe-Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Gabe-Electron" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gabe-NodeJs" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
+
+#### CI/CD
+
+<div style="display: inline_block">
+    <img align="center" alt="Gabe-Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="Gabe-Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+</div>
+
+#### Frameworks
+<div style="display: inline_block">
+    <img align="center" alt="Gabe-Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="center" alt="Gabe-Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Gabe-Docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</div>
+
+## Things I'm interested to learn
+
+<div style="display: inline_block">
+    <img align="center" alt="Gabe-Amazon-Web-Services" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" alt="Gabe-Kubernetes" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <img align="center" alt="Gabe-ArgoCD" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" />
+</div>
+
+
+
     
 <!--
 **gasscoelho/gasscoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
