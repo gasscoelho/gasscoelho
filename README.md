@@ -2,7 +2,7 @@
 
 *Enthusiast of modern technologies and passionate about learning.*
 
-Currently working at <a href="https://www.brfconsulting.com/">BRF Consulting</a> as a Software & Data Engineer by providing the best guidance and solution to clients.
+Currently working at <a href="https://qualytics.co">Qualytics</a> as a Software Engineer.
 
 ---
 
